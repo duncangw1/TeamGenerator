@@ -20,7 +20,7 @@ The purpose of the Team Generator is to allow a manager to easily create an HTML
 _How to install & get the application running._
 
 - Install dependencies using `npm i`
-- Invoke the application using `node index.js`
+- Invoke the application using `node app.js`
 - Answer the prompts in the terminal by typing and pressing **enter**
 - When asked to choose the type of Employee to add next, use the **arrow keys** to select and then press **enter**
 - After all prompts have been answered, you should see a **"Success!"** message. Your team's HTML file has now been generated!
@@ -50,7 +50,7 @@ Contributions are always welcome. If interested, please send an email describing
 _Tests included with the application._
 
 - Open the terminal and navigate to **app.js**
-- Initiate built-in tests using 'npm run test'
+- Initiate built-in tests using `npm run test`
 - View test results in the terminal
 
 ## Questions
