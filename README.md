@@ -53,7 +53,7 @@ _Tests included with the application._
 - Initiate built-in tests using `npm run test`
 - View test results in the terminal
 
-![Team Generator Tests](./assets/images/TeamGeneratorTests.gif)
+![Team Generator Tests](./assets/images/TeamGeneratorTests.png)
 
 ## Questions
 
