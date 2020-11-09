@@ -46,7 +46,6 @@ function teamManager() {
       let officeNumber = data.officeNumber;
       let newManager = new Manager(name, id, email, officeNumber);
       myTeam.push(newManager);
-      console.log(myTeam);
       // Calling otherMembers function to get info about the other team members
       otherMembers();
     });
