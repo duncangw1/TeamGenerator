@@ -29,9 +29,9 @@ _How to install & get the application running._
 
 _Guidelines for usage & link to Walkthrough Video._
 
-This application may be used to quickly and easily generate a high quality HTML team page for any personal, professional, or educational purposes. Please view the [Walkthrough Video](#) for an overview of the application in action.
+This application may be used to quickly and easily generate a high quality HTML team page for any personal, professional, or educational purposes. Please view the [Walkthrough Video](https://www.youtube.com/watch?v=n9XEUQAOzSI&feature=youtu.be) for an overview of the application in action.
 
-![Team Generator Demo](#)
+![Team Generator Demo](./assets/images/TeamProfileGenerator.gif)
 
 ## Licenses
 
